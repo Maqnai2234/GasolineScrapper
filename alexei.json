@@ -1,0 +1,530 @@
+[{
+  'codigoOsinergmin': '16778',
+  'latitud': -15.435866,
+  'longitud': -70.14077,
+  'unidad': 'INKA GRIFOS',
+  'direccion': 'CARRETERA JULIACA - CUSCO KM. 6.5',
+  'productos': [{
+    'producto': 'Diesel B5 S-50 UV',
+    'precioVenta': 10.7
+  }, {
+    'producto': 'GASOHOL 84 PLUS',
+    'precioVenta': 11.1
+  }, {
+    'producto': 'GASOHOL 90 PLUS',
+    'precioVenta': 12.3
+  }]
+}, {
+  'codigoOsinergmin': '9565',
+  'latitud': -15.48137,
+  'longitud': -70.13255,
+  'unidad': 'ROBHI GRIFOS S R LTDA',
+  'direccion': 'ESQ. RAMON CASTILLA Y CARABAYA N\xB0 581',
+  'productos': [{
+    'producto': 'Diesel B5 S-50 UV',
+    'precioVenta': 10.99
+  }, {
+    'producto': 'GASOHOL 84 PLUS',
+    'precioVenta': 11.2
+  }]
+}, {
+  'codigoOsinergmin': '9626',
+  'latitud': -15.453649,
+  'longitud': -70.14043,
+  'unidad': 'E.S. PETRO COP',
+  'direccion': 'KM. 5.4 CARRETERA JULIACA-CUSCO',
+  'productos': [{
+    'producto': 'Diesel B5 S-50 UV',
+    'precioVenta': 10.79
+  }, {
+    'producto': 'GASOHOL 84 PLUS',
+    'precioVenta': 11.19
+  }]
+}, {
+  'codigoOsinergmin': '99174',
+  'latitud': -15.396942,
+  'longitud': -70.154854,
+  'unidad': 'GRIFO HUAYNA PICCHU',
+  'direccion': 'CARRETERA JULIACA-CUSCO KM. 13 \x96 SECTOR PARCELA KOJELA PASTO HUAYCO - CHINGORA',
+  'productos': [{
+    'producto': 'Diesel B5 S-50 UV',
+    'precioVenta': 10.8
+  }, {
+    'producto': 'GASOHOL 84 PLUS',
+    'precioVenta': 11.3
+  }, {
+    'producto': 'GASOHOL 90 PLUS',
+    'precioVenta': 12.3
+  }, {
+    'producto': 'GASOHOL 95 PLUS',
+    'precioVenta': 13.97
+  }]
+}, {
+  'codigoOsinergmin': '8429',
+  'latitud': -15.49524,
+  'longitud': -70.12817,
+  'unidad': 'GRIFO LAS VEGAS',
+  'direccion': 'JR APURIMAC N\xBA 1601',
+  'productos': [{
+    'producto': 'Diesel B5 S-50 UV',
+    'precioVenta': 11.2
+  }, {
+    'producto': 'GASOHOL 84 PLUS',
+    'precioVenta': 11.8
+  }, {
+    'producto': 'GASOHOL 90 PLUS',
+    'precioVenta': 12.8
+  }]
+}, {
+  'codigoOsinergmin': '16777',
+  'latitud': -15.50073,
+  'longitud': -70.12945,
+  'unidad': 'SERVICENTRO SAROHI SRL',
+  'direccion': 'AV. MANUEL NU\xD1EZ BUTRON N\xBA 200 CON JR. MARIANO PANDIA',
+  'productos': [{
+    'producto': 'Diesel B5 S-50 UV',
+    'precioVenta': 11.7
+  }, {
+    'producto': 'GASOHOL 84 PLUS',
+    'precioVenta': 11.5
+  }, {
+    'producto': 'GASOHOL 90 PLUS',
+    'precioVenta': 12.5
+  }, {
+    'producto': 'GASOHOL 95 PLUS',
+    'precioVenta': 13.5
+  }]
+}, {
+  'codigoOsinergmin': '105818',
+  'latitud': -15.501272,
+  'longitud': -70.15473,
+  'unidad': 'SERVICENTRO CASBEL S.R.L.',
+  'direccion': 'PROLONG. AV. HEROES DE LA GUERRA DEL PACIFICO S/N KM 2.5 CARRETERA JULIACA-AREQUIPA',
+  'productos': [{
+    'producto': 'Diesel B5 S-50 UV',
+    'precioVenta': 10.9
+  }, {
+    'producto': 'GASOHOL 84 PLUS',
+    'precioVenta': 11.8
+  }]
+}, {
+  'codigoOsinergmin': '16776',
+  'latitud': -15.441755,
+  'longitud': -70.08712,
+  'unidad': 'GRIFO AMERICA',
+  'direccion': 'KM. 08 CARRETERA JULIACA - HUANCANE',
+  'productos': [{
+    'producto': 'Diesel B5 S-50 UV',
+    'precioVenta': 10.85
+  }, {
+    'producto': 'GASOHOL 84 PLUS',
+    'precioVenta': 11.25
+  }, {
+    'producto': 'GASOHOL 90 PLUS',
+    'precioVenta': 12.99
+  }]
+}, {
+  'codigoOsinergmin': '7844',
+  'latitud': -15.468333,
+  'longitud': -70.109985,
+  'unidad': 'FAVI MULTISERVIS E.I.R.L',
+  'direccion': 'AV. HUANCANE S/N ESQ. CIRCUNVALACION II S/N',
+  'productos': [{
+    'producto': 'Diesel B5 S-50 UV',
+    'precioVenta': 10.0
+  }, {
+    'producto': 'GASOHOL 84 PLUS',
+    'precioVenta': 10.6
+  }]
+}, {
+  'codigoOsinergmin': '21356',
+  'latitud': -15.50176,
+  'longitud': -70.12914,
+  'unidad': 'EMGESA S.A.C.',
+  'direccion': 'AV. MANUEL NU\xD1EZ BUTR\xD3N N\xBA 330',
+  'productos': [{
+    'producto': 'Diesel B5 S-50 UV',
+    'precioVenta': 10.99
+  }, {
+    'producto': 'GASOHOL 84 PLUS',
+    'precioVenta': 11.48
+  }, {
+    'producto': 'GASOHOL 90 PLUS',
+    'precioVenta': 12.49
+  }, {
+    'producto': 'GASOHOL 95 PLUS',
+    'precioVenta': 13.47
+  }]
+}, {
+  'codigoOsinergmin': '18695',
+  'latitud': -15.425731,
+  'longitud': -70.0724,
+  'unidad': 'GRIFO CRUZ AYABACAS E.I.R.L.',
+  'direccion': 'KM. 10.4 CARRETERA JULIACA - HUANCANE, CENTRO POBLADO AYABACAS',
+  'productos': [{
+    'producto': 'Diesel B5 S-50 UV',
+    'precioVenta': 10.39
+  }, {
+    'producto': 'GASOHOL 84 PLUS',
+    'precioVenta': 11.0
+  }]
+}, {
+  'codigoOsinergmin': '8497',
+  'latitud': -15.4859,
+  'longitud': -70.15965,
+  'unidad': 'GRIFO PETROFAX E.I.R.L',
+  'direccion': 'AV. LAMPA N\xB0 815',
+  'productos': [{
+    'producto': 'Diesel B5 S-50 UV',
+    'precioVenta': 10.99
+  }, {
+    'producto': 'GASOHOL 84 PLUS',
+    'precioVenta': 11.75
+  }, {
+    'producto': 'GASOHOL 90 PLUS',
+    'precioVenta': 12.49
+  }]
+}, {
+  'codigoOsinergmin': '21490',
+  'latitud': -15.528812,
+  'longitud': -70.11393,
+  'unidad': 'SERVICENTRO ORO NEGRO S.R.L.',
+  'direccion': 'URB PARQUE INDUSTRIAL TAPARACHI MZ C LOTE 18 SUB LOTE B',
+  'productos': [{
+    'producto': 'Diesel B5 S-50 UV',
+    'precioVenta': 10.99
+  }, {
+    'producto': 'GASOHOL 84 PLUS',
+    'precioVenta': 11.99
+  }, {
+    'producto': 'GASOHOL 90 PLUS',
+    'precioVenta': 13.5
+  }]
+}, {
+  'codigoOsinergmin': '115977',
+  'latitud': -15.468658,
+  'longitud': -70.11004,
+  'unidad': 'GRIFOS BUENAVENTURA S.A.C.',
+  'direccion': 'AV. TACNA N\xB0 895  ESQ. JR. BOLOGNESI',
+  'productos': [{
+    'producto': 'Diesel B5 S-50 UV',
+    'precioVenta': 10.89
+  }, {
+    'producto': 'GASOHOL 84 PLUS',
+    'precioVenta': 11.39
+  }, {
+    'producto': 'GASOHOL 90 PLUS',
+    'precioVenta': 12.89
+  }]
+}, {
+  'codigoOsinergmin': '8536',
+  'latitud': -15.475974,
+  'longitud': -70.16506,
+  'unidad': 'GRIFO ABELLANAS E.I.R.L',
+  'direccion': 'CARRETERA JULIACA - LAMPA KM. 3.5',
+  'productos': [{
+    'producto': 'Diesel B5 S-50 UV',
+    'precioVenta': 11.0
+  }, {
+    'producto': 'GASOHOL 84 PLUS',
+    'precioVenta': 12.5
+  }]
+}, {
+  'codigoOsinergmin': '7846',
+  'latitud': -15.465808,
+  'longitud': -70.10785,
+  'unidad': 'GRIFO PETROSUR E.I.R.L.',
+  'direccion': 'KM. 4 CARRETERA JULIACA-HUANCANE',
+  'productos': [{
+    'producto': 'Diesel B5 S-50 UV',
+    'precioVenta': 10.7
+  }, {
+    'producto': 'GASOHOL 84 PLUS',
+    'precioVenta': 11.2
+  }, {
+    'producto': 'GASOHOL 90 PLUS',
+    'precioVenta': 12.4
+  }]
+}, {
+  'codigoOsinergmin': '58091',
+  'latitud': -15.492594,
+  'longitud': -70.12197,
+  'unidad': 'SERVICENTRO CRUZ DEL BOSQUE S.A.C.',
+  'direccion': 'AV. CIRCUNVALACION ESTE N\xBA 950, URB. SAN ISIDRO',
+  'productos': [{
+    'producto': 'Diesel B5 S-50 UV',
+    'precioVenta': 10.99
+  }, {
+    'producto': 'GASOHOL 84 PLUS',
+    'precioVenta': 11.69
+  }, {
+    'producto': 'GASOHOL 90 PLUS',
+    'precioVenta': 13.2
+  }]
+}, {
+  'codigoOsinergmin': '21583',
+  'latitud': -15.48145,
+  'longitud': -70.13456,
+  'unidad': 'TOP SERVICE C \\u0026 T S.C.R.LTDA.',
+  'direccion': 'AV. CIRCUNVALACI\xD3N ZONA ESTE N\xBA 2202 URB. LOS ROSALES',
+  'productos': [{
+    'producto': 'Diesel B5 S-50 UV',
+    'precioVenta': 10.9
+  }, {
+    'producto': 'GASOHOL 84 PLUS',
+    'precioVenta': 11.3
+  }, {
+    'producto': 'GASOHOL 90 PLUS',
+    'precioVenta': 12.7
+  }]
+}, {
+  'codigoOsinergmin': '14829',
+  'latitud': -15.481578,
+  'longitud': -70.13439,
+  'unidad': 'SERVICENTRO  FAVORITA CAR S.R.L',
+  'direccion': 'ESQUINA AV. CIRCUNVALACION N\xB0 1207 CON JR. TUMBES, URB. SAN JOSE I ETAPA',
+  'productos': [{
+    'producto': 'Diesel B5 S-50 UV',
+    'precioVenta': 10.89
+  }, {
+    'producto': 'GASOHOL 84 PLUS',
+    'precioVenta': 11.69
+  }, {
+    'producto': 'GASOHOL 90 PLUS',
+    'precioVenta': 13.19
+  }]
+}, {
+  'codigoOsinergmin': '9664',
+  'latitud': -15.505902,
+  'longitud': -70.16338,
+  'unidad': 'SERVICENTRO HUAYNAROQUE EMPRESA INDIVIDUAL DE RESPONSABILIDAD LIMITADA',
+  'direccion': 'CARRETERA JULIACA-AREQUIPA KM. 3.5 COMUNIDAD ESQUEN CENTRAL',
+  'productos': [{
+    'producto': 'Diesel B5 S-50 UV',
+    'precioVenta': 10.79
+  }, {
+    'producto': 'GASOHOL 84 PLUS',
+    'precioVenta': 11.39
+  }, {
+    'producto': 'GASOHOL 90 PLUS',
+    'precioVenta': 12.89
+  }]
+}, {
+  'codigoOsinergmin': '110623',
+  'latitud': -15.436414,
+  'longitud': -70.083046,
+  'unidad': 'SERVICENTRO JM SAN JUAN E.I.R.L ',
+  'direccion': 'CARRETERA JULIACA HUANCANE KM 9 - CENTRO POBLADO SANTA MARIA',
+  'productos': [{
+    'producto': 'Diesel B5 S-50 UV',
+    'precioVenta': 10.79
+  }, {
+    'producto': 'GASOHOL 84 PLUS',
+    'precioVenta': 11.19
+  }, {
+    'producto': 'GASOHOL 90 PLUS',
+    'precioVenta': 12.39
+  }]
+}, {
+  'codigoOsinergmin': '18336',
+  'latitud': -15.50534,
+  'longitud': -70.1276,
+  'unidad': 'EMGESA S.A.C',
+  'direccion': 'JR. MARIANO NU\xD1EZ No. 708',
+  'productos': [{
+    'producto': 'Diesel B5 S-50 UV',
+    'precioVenta': 10.99
+  }, {
+    'producto': 'GASOHOL 84 PLUS',
+    'precioVenta': 11.48
+  }, {
+    'producto': 'GASOHOL 90 PLUS',
+    'precioVenta': 12.49
+  }]
+}, {
+  'codigoOsinergmin': '37464',
+  'latitud': -15.514513,
+  'longitud': -70.17265,
+  'unidad': 'GRIFO LOS ANGELES S.R.L',
+  'direccion': 'CARRETERA JULIACA - AREQUIPA KM. 5.5',
+  'productos': [{
+    'producto': 'Diesel B5 S-50 UV',
+    'precioVenta': 10.79
+  }, {
+    'producto': 'GASOHOL 84 PLUS',
+    'precioVenta': 11.99
+  }]
+}, {
+  'codigoOsinergmin': '9567',
+  'latitud': -15.470136,
+  'longitud': -70.110306,
+  'unidad': 'ROBHI GRIFOS S R LTDA',
+  'direccion': 'AV HUANCANE MZA  A-1 LOTES 15 Y 16',
+  'productos': [{
+    'producto': 'Diesel B5 S-50 UV',
+    'precioVenta': 10.99
+  }, {
+    'producto': 'GASOHOL 84 PLUS',
+    'precioVenta': 11.2
+  }]
+}, {
+  'codigoOsinergmin': '9261',
+  'latitud': -15.483677,
+  'longitud': -70.136826,
+  'unidad': 'INES ALARCON MAMANI',
+  'direccion': 'AV. INDEPENDENCIA S/N URB. JORGE CHAVEZ (ANTES AV. LOS INCAS KM. 2 CARRETERA JULIACA - PUNO)',
+  'productos': [{
+    'producto': 'Diesel B5 S-50 UV',
+    'precioVenta': 11.15
+  }, {
+    'producto': 'GASOHOL 84 PLUS',
+    'precioVenta': 12.3
+  }]
+}, {
+  'codigoOsinergmin': '63211',
+  'latitud': -15.459235,
+  'longitud': -70.101006,
+  'unidad': 'JUSTA RAYMUNDA AEDO CHURATA',
+  'direccion': 'KM. 01 + 100 CARRETREA JULIACA HUANCANE',
+  'productos': [{
+    'producto': 'Diesel B5 S-50 UV',
+    'precioVenta': 10.9
+  }, {
+    'producto': 'GASOHOL 84 PLUS',
+    'precioVenta': 11.4
+  }]
+}, {
+  'codigoOsinergmin': '8024',
+  'latitud': -15.501611,
+  'longitud': -70.15442,
+  'unidad': 'GEORGINA ANGELICA MANSILLA ARIAS',
+  'direccion': 'SALIDA AREQUIPA KM. 2.5 JULIACA - PUNO',
+  'productos': [{
+    'producto': 'Diesel B5 S-50 UV',
+    'precioVenta': 10.79
+  }, {
+    'producto': 'GASOHOL 84 PLUS',
+    'precioVenta': 11.48
+  }, {
+    'producto': 'GASOHOL 90 PLUS',
+    'precioVenta': 12.49
+  }, {
+    'producto': 'GASOHOL 95 PLUS',
+    'precioVenta': 13.47
+  }, {
+    'producto': 'GASOHOL 97 PLUS',
+    'precioVenta': 14.5
+  }]
+}, {
+  'codigoOsinergmin': '16787',
+  'latitud': -15.49277,
+  'longitud': -70.13908,
+  'unidad': 'JOSE CARLOS MEDINA VELASQUEZ S.A',
+  'direccion': 'JR. RICARDO PALMA N\xBA 340',
+  'productos': [{
+    'producto': 'Diesel B5 S-50 UV',
+    'precioVenta': 10.95
+  }, {
+    'producto': 'GASOHOL 84 PLUS',
+    'precioVenta': 11.7
+  }, {
+    'producto': 'GASOHOL 90 PLUS',
+    'precioVenta': 13.2
+  }]
+}, {
+  'codigoOsinergmin': '95453',
+  'latitud': -15.484418,
+  'longitud': -70.14268,
+  'unidad': 'JUSTINA HUANCO MAMANI',
+  'direccion': 'ESQ. AV. CIRCUNVALACI\xD3N N\xB0 2710, CON JR. GUILLERMO BRICE\xD1O ROSA MEDINA S/N',
+  'productos': [{
+    'producto': 'Diesel B5 S-50 UV',
+    'precioVenta': 10.89
+  }, {
+    'producto': 'GASOHOL 84 PLUS',
+    'precioVenta': 11.39
+  }, {
+    'producto': 'GASOHOL 90 PLUS',
+    'precioVenta': 12.89
+  }]
+}, {
+  'codigoOsinergmin': '7686',
+  'latitud': -15.494296,
+  'longitud': -70.140785,
+  'unidad': 'ESTACION DE SERVICIOS EL MISTI S.A.C.',
+  'direccion': 'AV. JOSE OLAYA N\xB0  260',
+  'productos': [{
+    'producto': 'Diesel B5 S-50 UV',
+    'precioVenta': 10.9
+  }, {
+    'producto': 'GASOHOL 84 PLUS',
+    'precioVenta': 11.65
+  }, {
+    'producto': 'GASOHOL 90 PLUS',
+    'precioVenta': 13.15
+  }]
+}, {
+  'codigoOsinergmin': '38170',
+  'latitud': -15.55413,
+  'longitud': -70.10742,
+  'unidad': 'GRIFO SERVICENTRO NUEVA DELHI EMPRESA INDIVIDUAL DE RESPONSABILIDAD LIMITADA',
+  'direccion': 'CARRRETERA JULIACA-PUNO KM 7.4',
+  'productos': [{
+    'producto': 'Diesel B5 S-50 UV',
+    'precioVenta': 11.1
+  }, {
+    'producto': 'GASOHOL 84 PLUS',
+    'precioVenta': 11.8
+  }, {
+    'producto': 'GASOHOL 90 PLUS',
+    'precioVenta': 13.5
+  }]
+}, {
+  'codigoOsinergmin': '7685',
+  'latitud': -15.501275,
+  'longitud': -70.15261,
+  'unidad': 'ANTONIETA SATURNINA WAGNER SALMON',
+  'direccion': 'AV. LOS HEROES DE LA GUERRA DEL PACIFICO KM. 2 CARRETERA JULIACA-AREQUIPA',
+  'productos': [{
+    'producto': 'Diesel B5 S-50 UV',
+    'precioVenta': 10.8
+  }, {
+    'producto': 'GASOHOL 84 PLUS',
+    'precioVenta': 12.3
+  }, {
+    'producto': 'GASOHOL 90 PLUS',
+    'precioVenta': 13.7
+  }]
+}, {
+  'codigoOsinergmin': '17925',
+  'latitud': -15.480755,
+  'longitud': -70.13026,
+  'unidad': 'GRIFOS \\u0026 INVERSIONES SAN JOSE S.A.C.',
+  'direccion': 'AV. CIRCUNVALACION N\xB0 761',
+  'productos': [{
+    'producto': 'Diesel B5 S-50 UV',
+    'precioVenta': 10.89
+  }, {
+    'producto': 'GASOHOL 84 PLUS',
+    'precioVenta': 11.39
+  }, {
+    'producto': 'GASOHOL 90 PLUS',
+    'precioVenta': 12.89
+  }]
+}, {
+  'codigoOsinergmin': '105045',
+  'latitud': -15.438166,
+  'longitud': -70.083664,
+  'unidad': 'HERNAN MAMANI APAZA',
+  'direccion': 'CARRETERA JULIACA - HUANCANE KM. 8 + 800',
+  'productos': [{
+    'producto': 'Diesel B5 S-50 UV',
+    'precioVenta': 10.89
+  }, {
+    'producto': 'GASOHOL 84 PLUS',
+    'precioVenta': 11.75
+  }, {
+    'producto': 'GASOHOL 90 PLUS',
+    'precioVenta': 12.49
+  }]
+}]
